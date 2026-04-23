@@ -27,7 +27,7 @@
     "build": "rm -rf dist && mkdir -p dist && cp index.html dist/ && cp -r assets/ dist/assets/ && cp -r api/ dist/api/"
   },
   "devDependencies": {
-    "@axe-core/playwright": "^4.10.2",
+    "@axe-core/playwright": "^4.11.0",
     "@eslint/js": "^9.32.0",
     "@lhci/cli": "^0.15.1",
     "@playwright/test": "^1.54.1",
